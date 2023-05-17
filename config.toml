@@ -1,4 +1,4 @@
-theme = "ananke"
-baseURL = "http://example.org/"
-languageCode = "en-us"
+theme = "hugo-notepadium"
+baseURL = "https://wakakusayuzu0.github.io/blog/"
+languageCode = "ja"
 title = "My New Hugo Site"
