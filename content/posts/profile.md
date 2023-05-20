@@ -17,7 +17,7 @@ draft: False
 ## 職歴  
 ### インターン  
 #### LeapMind株式会社　(2022年8月〜10月)  
-    量子化されたニューラルネットワーク上での異常分類モデルの実装 
+- 量子化されたニューラルネットワーク上での異常分類モデルの実装 
 
     インターン記事(https://leapmind.io/blog/2022/10/12/summer-internship-2022-wakai-investigate-the-possibility-of-anomaly-classification-on-quantized-neural-networks/)
 
@@ -83,10 +83,13 @@ draft: False
 - 🌳git 2年
 
 ## 資格/免許/スキル
-- 情報処理安全確保支援士試験合格(未登録セキスペ)
-- 実用英語技能検定1級（英検1級）
-- IELTS Overall スコア 6.5を取得。
-- TOEIC Listening & Reading Testスコア945を取得。
-- 1年間オーストラリアでのAFS交換留学を経験。現地の高校に通い、オーストラリア人の高校生と同じ講義を履修。
-- 中国語検定3級を取得。
+### 語学
+- 2016年7月: IELTS Overall スコア 6.5
+- 2016年11月: 実用英語技能検定1級（英検1級）
+- 2017年3月〜2017年12月: 1年弱オーストラリアでのAFS交換留学を経験。現地の高校に通い、オーストラリア人の高校生と同じ講義を履修。
+- 2019年6月: 中国語検定3級
+- 2022年5月: TOEIC Listening & Reading Testスコア945
+
+### IT
+- 2022年10月: 情報処理安全確保支援士試験合格(未登録)
 
