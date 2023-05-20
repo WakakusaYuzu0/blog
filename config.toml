@@ -1,4 +1,4 @@
 theme = "hugo-notepadium"
-baseURL = "https://wakakusayuzu0.github.io"
+baseURL = "https://wakakusayuzu0.github.io/blog/"
 languageCode = "ja"
 title = "ゆずぶろ"
