@@ -1,7 +1,7 @@
 ---
 title: "Hello World2"
 date: 2023-06-01T00:00:00+09:00
-draft: False
+draft: True
 ---
 
 2023年6月1日(木)の京都の天気は晴れです。
