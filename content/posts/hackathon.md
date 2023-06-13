@@ -9,5 +9,3 @@ draft: false
 
 京都の古民家をIoTで便利にしよう！というコンセプトの作品で、(https://twitter.com/geek_pjt/status/1665291006319955968, https://twitter.com/geek_pjt/status/1665291008358207488)
 私は点灯/消灯の自動化とPrometheus(,Grafana)による可視化を担当していました。
-
-
