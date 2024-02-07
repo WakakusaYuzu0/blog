@@ -1,59 +1,62 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on ゆずぶろ</title><link>https://wakakusayuzu0.github.io/blog/categories/</link><description>Recent content in Categories on ゆずぶろ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><atom:link href="https://wakakusayuzu0.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Hackathon</title><link>https://wakakusayuzu0.github.io/blog/posts/hackathon/</link><pubDate>Tue, 06 Jun 2023 21:00:00 +0900</pubDate><guid>https://wakakusayuzu0.github.io/blog/posts/hackathon/</guid><description>&lt;p>ハッカソンで企業賞をいただきました&lt;/p>
-&lt;p>私はCAMPHOR-という学生IT団体に所属しているのですが、運営メンバーと技育CAMPハッカソンに出場し、企業賞をいただきました。&lt;/p>
-&lt;p>京都の古民家をIoTで便利にしよう！というコンセプトの作品で、(&lt;a href="https://twitter.com/geek_pjt/status/1665291006319955968"target="_blank" rel="noopener noreferrer">https://twitter.com/geek_pjt/status/1665291006319955968&lt;/a>
-, &lt;a href="https://twitter.com/geek_pjt/status/1665291008358207488"target="_blank" rel="noopener noreferrer">https://twitter.com/geek_pjt/status/1665291008358207488&lt;/a>
-)
-私は点灯/消灯の自動化とPrometheus(,Grafana)による可視化を担当していました。&lt;/p></description></item><item><title>SecHack365に合格しました</title><link>https://wakakusayuzu0.github.io/blog/posts/sechack365/</link><pubDate>Sun, 28 May 2023 02:30:30 +0900</pubDate><guid>https://wakakusayuzu0.github.io/blog/posts/sechack365/</guid><description>&lt;p>SecHack365に合格しました。
-大規模言語モデルへのプロンプトインジェクション攻撃について、事前フィルタリング手法の研究を行う予定です。&lt;/p></description></item><item><title>Profile</title><link>https://wakakusayuzu0.github.io/blog/posts/profile/</link><pubDate>Tue, 16 May 2023 21:00:00 +0900</pubDate><guid>https://wakakusayuzu0.github.io/blog/posts/profile/</guid><description>&lt;p>プロフィール&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on ゆずぶろ</title><link>https://wakakusayuzu0.github.io/blog/categories/</link><description>Recent content in Categories on ゆずぶろ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><atom:link href="https://wakakusayuzu0.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Profile</title><link>https://wakakusayuzu0.github.io/blog/posts/profile/</link><pubDate>Mon, 05 Feb 2024 00:00:00 +0900</pubDate><guid>https://wakakusayuzu0.github.io/blog/posts/profile/</guid><description>&lt;p>プロフィール&lt;/p>
 &lt;h2 id="学歴">学歴&lt;/h2>
 &lt;p>京都大学工学部情報学科　　　2023年3月卒業 (SICE優秀学生賞受賞)&lt;br>
 京都大学大学院情報学研究科　2023年4月入学&lt;br>
 京都大学大学院情報学研究科　2025年3月卒業見込&lt;/p>
 &lt;h2 id="職歴">職歴&lt;/h2>
-&lt;h3 id="インターン">インターン&lt;/h3>
-&lt;h4 id="leapmind株式会社2022年8月10月">LeapMind株式会社　(2022年8月〜10月)&lt;/h4>
+&lt;h3 id="長期インターン">長期インターン&lt;/h3>
+&lt;h4 id="株式会社リクルート2023年10月12月-2ヶ月">株式会社リクルート(2023年10月〜12月, 2ヶ月)&lt;/h4>
 &lt;ul>
-&lt;li>
-&lt;p>量子化されたニューラルネットワーク上での異常分類モデルの実装&lt;/p>
-&lt;p>インターン記事(&lt;a href="https://leapmind.io/blog/2022/10/12/summer-internship-2022-wakai-investigate-the-possibility-of-anomaly-classification-on-quantized-neural-networks/"target="_blank" rel="noopener noreferrer">https://leapmind.io/blog/2022/10/12/summer-internship-2022-wakai-investigate-the-possibility-of-anomaly-classification-on-quantized-neural-networks/&lt;/a>
-)&lt;/p>
-&lt;/li>
+&lt;li>マッチングアプリのレコメンドにおける機械学習モデルの改善&lt;/li>
+&lt;li>BigQuery上でのマッチングアプリデータの分析&lt;/li>
 &lt;/ul>
-&lt;h4 id="フューチャー株式会社2022年8月9月">フューチャー株式会社　(2022年8月〜9月)&lt;/h4>
+&lt;h4 id="株式会社ファーストリテーリング2023年10月12月-3ヶ月">株式会社ファーストリテーリング(2023年10月〜12月, 3ヶ月)&lt;/h4>
+&lt;ul>
+&lt;li>在庫計画の最適化モデルの実装&lt;/li>
+&lt;/ul>
+&lt;h4 id="株式会社preferred-networks2023年8月9月-2ヶ月">株式会社Preferred Networks(2023年8月〜9月, 2ヶ月)&lt;/h4>
+&lt;p>　- 3次元雨雲レーダデータを用いた気象状況の推定・予測技術の研究開発&lt;/p>
+&lt;h4 id="leapmind株式会社2022年8月10月-2ヶ月">LeapMind株式会社(2022年8月〜10月, 2ヶ月)&lt;/h4>
+&lt;ul>
+&lt;li>量子化されたニューラルネットワーク上での異常分類モデルの実装&lt;/li>
+&lt;li>インターン記事(&lt;a href="https://leapmind.io/blog/2022/10/12/summer-internship-2022-wakai-investigate-the-possibility-of-anomaly-classification-on-quantized-neural-networks/"target="_blank" rel="noopener noreferrer">https://leapmind.io/blog/2022/10/12/summer-internship-2022-wakai-investigate-the-possibility-of-anomaly-classification-on-quantized-neural-networks/&lt;/a>
+)&lt;/li>
+&lt;/ul>
+&lt;h4 id="フューチャー株式会社2022年8月9月-1ヶ月">フューチャー株式会社(2022年8月〜9月, 1ヶ月)&lt;/h4>
 &lt;ul>
 &lt;li>光学文字認識をする機械学習モデルの精度改善&lt;/li>
 &lt;li>光学文字認識をする機械学習モデルを用いた、日本語文字の実データセットの自動作成&lt;/li>
 &lt;/ul>
-&lt;h4 id="株式会社サイバーエージェント2022年9月">株式会社サイバーエージェント　(2022年9月)&lt;/h4>
+&lt;h3 id="短期インターン">短期インターン&lt;/h3>
+&lt;h4 id="トヨタ自動車株式会社2023年9月-1週間">トヨタ自動車株式会社　(2023年9月, 1週間)　&lt;/h4>
+&lt;ul>
+&lt;li>車両データの分析、活用の検討&lt;/li>
+&lt;/ul>
+&lt;h4 id="株式会社ナレッジワーク2023年5月-3日間">株式会社ナレッジワーク　(2023年5月, 3日間)&lt;/h4>
+&lt;ul>
+&lt;li>並列処理のテストを補助するGo言語ライブラリの開発&lt;/li>
+&lt;/ul>
+&lt;h4 id="株式会社サイバーエージェント2022年9月-3日間">株式会社サイバーエージェント　(2022年9月, 3日間)&lt;/h4>
 &lt;ul>
 &lt;li>推薦システムの機械学習モデルとAPIサーバの改善&lt;/li>
 &lt;li>動画視聴データの分析&lt;/li>
 &lt;/ul>
-&lt;h4 id="日本経済新聞社2022年9月">日本経済新聞社　(2022年9月)&lt;/h4>
+&lt;h4 id="日本経済新聞社2022年9月-3日間">日本経済新聞社　(2022年9月, 3日間)&lt;/h4>
 &lt;ul>
 &lt;li>Stable Diffusionを用いた、新聞記事タイトルからのサムネイル画像自動生成&lt;/li>
 &lt;/ul>
-&lt;h4 id="株式会社サイバーエージェント2022年2月2022年3月">株式会社サイバーエージェント　(2022年2月〜2022年3月)&lt;/h4>
+&lt;h4 id="株式会社サイバーエージェント2022年2月2022年3月-2週間">株式会社サイバーエージェント　(2022年2月〜2022年3月, 2週間)&lt;/h4>
 &lt;ul>
 &lt;li>ゲームAPIサーバの開発&lt;/li>
 &lt;/ul>
 &lt;h3 id="アルバイト">アルバイト&lt;/h3>
-&lt;ul>
-&lt;li>株式会社データグリッド　(2022年10月〜現在)
-&lt;ul>
-&lt;li>創薬における化合物探索の機械学習を用いた効率化&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>株式会社RUTILEA　(2022年4月〜現在)
+&lt;h4 id="株式会社rutilea2022年4月現在">株式会社RUTILEA　(2022年4月〜現在)&lt;/h4>
 &lt;ul>
 &lt;li>LiDARセンサーの点群画像からコンテナの充填率を推定するプロジェクトのPoC業務&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;li>株式会社Rist　(2019年10月〜現在)
+&lt;h4 id="株式会社データグリッド2022年10月2023年3月">株式会社データグリッド　(2022年10月〜2023年3月)&lt;/h4>
 &lt;ul>
-&lt;li>機械学習用データ作成業務&lt;/li>
-&lt;/ul>
-&lt;/li>
+&lt;li>創薬における化合物探索の機械学習を用いた効率化&lt;/li>
 &lt;/ul>
 &lt;h2 id="所属">所属&lt;/h2>
 &lt;ul>
@@ -64,49 +67,51 @@
 )&lt;/li>
 &lt;li>SecHack365 2023年度トレーニー&lt;/li>
 &lt;/ul>
+&lt;h2 id="研究">研究&lt;/h2>
+&lt;h3 id="査読付国際学会">査読付国際学会　　&lt;/h3>
+&lt;ul>
+&lt;li>PAKDD2024(発表予定) &amp;ldquo;Recovering Population Dynamics from a Single Point Cloud Snapshot&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;h3 id="国内学会">国内学会　&lt;/h3>
+&lt;ul>
+&lt;li>JSAI2023
+「点群の単一スナップショットからの集団ダイナミクスの復元」&lt;/li>
+&lt;li>JSAI2024(発表予定)
+「大規模マルチモーダルモデルによるプライバシーを保護したデータアノテーション自動化」&lt;/li>
+&lt;/ul>
 &lt;h2 id="開発経験">開発経験&lt;/h2>
-&lt;p>　プログラミングは中学生の時から経験があり、C/C++/Python/Java/Golang/OCaml等のプログラミング経験があります。&lt;/p>
-&lt;p>　大学2年生の時には、講義資料・課題・小テストを管理する京都大学生用のウェブサイト上で、スクレイピングにより課題リストの自動取得と課題の予約投稿を行うpythonプログラムを開発しました。&lt;/p>
-&lt;p>　大学3年生の時には、FPGA上でVerilogを用いて5段パイプライン化や分岐予測等を実装したCPUや、OCamlを用いてインタプリタや型推論プログラムを作成しました。&lt;/p>
-&lt;p>　Webアプリケーションやサーバサイドの開発も行っており、インターンシップでGo言語を用いたゲームAPIサーバの開発を行いました。&lt;/p>
-&lt;p>　大学4年生の時は、データ分析・機械学習技術の応用をテーマとする鹿島研究室に配属されました。また、機械学習に関わるインターンを経験しました。具体的には、&lt;/p>
+&lt;p>プログラミングは中学生の時から経験があり、Python/Go言語/C/C++/Java等のプログラミング経験があります。&lt;/p>
+&lt;p>修士1年生の時は、機械学習に関わる長期インターンシップに参加し、&lt;/p>
+&lt;ul>
+&lt;li>3次元雨雲レーダデータを用いた気象状況の推定・予測技術の研究開発を行いました。また、他の長期インターンで、&lt;/li>
+&lt;li>マッチングアプリのデータ分析やレコメンドモデルの改善&lt;/li>
+&lt;li>在庫計画の最適化
+の業務に携わりました。また、京都の古民家の玄関鍵にIoTを導入した作品を制作し、ハッカソンで企業賞を受賞しました。&lt;/li>
+&lt;/ul>
+&lt;p>大学4年生の時には、データ分析・機械学習技術の応用をテーマとする鹿島研究室に配属されました。また、機械学習に関わる長期インターンやアルバイトを経験しました。具体的には、&lt;/p>
 &lt;ul>
 &lt;li>量子化されたニューラルネットワーク上での異常分類モデルの実装&lt;/li>
 &lt;li>光学文字認識モデル用のデータセット拡充とモデル改善&lt;/li>
-&lt;li>動画視聴データのデータ分析、機械学習モデルAPIの改善&lt;/li>
-&lt;li>Stable Diffusionを利用したWebアプリケーションの実装&lt;/li>
 &lt;li>創薬における化合物探索の機械学習を用いた効率化
-　を行いました。&lt;/li>
+の業務に携わりました。&lt;/li>
 &lt;/ul>
-&lt;p>　大学1年生時から競技プログラミングを趣味としており、AtCoderに参加しています。AtCoderではレート1382の水色コーダーです。&lt;/p>
+&lt;p>大学3年生の時には、FPGA上でVerilogを用いて5段パイプライン化や分岐予測等を実装したCPUや、OCamlを用いてインタプリタや型推論プログラムを作成しました。Webアプリケーションやサーバサイドの開発も行っており、インターンシップでGo言語を用いたゲームAPIサーバの開発を行いました。&lt;/p>
+&lt;p>大学2年生の時には、講義資料・課題・小テストを管理する京都大学生用のウェブサイト上で、スクレイピングにより課題リストの自動取得と課題の予約投稿を行うpythonプログラムを開発しました。&lt;/p>
+&lt;p>大学1年生時から競技プログラミングを趣味としており、AtCoderに参加しています。AtCoderではレート1382の水色コーダーです。&lt;/p>
 &lt;h2 id="使用経験のある技術と使用歴">使用経験のある技術と使用歴&lt;/h2>
+&lt;p>(業務経験あり)&lt;/p>
 &lt;ul>
-&lt;li>
-&lt;p>C/C++ 8年&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>☕️Java 4年&lt;/p>
-&lt;/li>
 &lt;li>
 &lt;p>🐍Python 2年半&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>ʕ•ᴥ•ʔ Golang 1年半&lt;/p>
+&lt;p>ʕ•ᴥ•ʔ Golang 2年半&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>🐫OCaml 2年半&lt;/p>
+&lt;p>🔥Keras/TensorFlow/PyTorch 2年半&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>📊SQL 1年半&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>🦀Rust 1ヶ月&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>🔥Keras/TensorFlow/PyTorch 1年半&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>🟦JAX/Flax 1ヶ月&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>🐳Docker 1年&lt;/p>
@@ -115,18 +120,22 @@
 &lt;p>🌳git 2年&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="資格免許スキル">資格/免許/スキル&lt;/h2>
-&lt;h3 id="語学">語学&lt;/h3>
+&lt;p>(業務経験なし)&lt;/p>
 &lt;ul>
-&lt;li>2016年7月: IELTS Overall スコア 6.5&lt;/li>
-&lt;li>2016年11月: 実用英語技能検定1級（英検1級）&lt;/li>
-&lt;li>2017年3月〜2017年12月: 1年弱オーストラリアでのAFS交換留学を経験。現地の高校に通い、オーストラリア人の高校生と同じ講義を履修。&lt;/li>
-&lt;li>2019年6月: 中国語検定3級&lt;/li>
-&lt;li>2022年5月: TOEIC Listening &amp;amp; Reading Testスコア950&lt;/li>
+&lt;li>C/C++ 8年&lt;/li>
+&lt;li>☕️Java 5年&lt;/li>
+&lt;li>🐫OCaml 2年半&lt;/li>
 &lt;/ul>
+&lt;p>(勉強中)&lt;/p>
+&lt;ul>
+&lt;li>🦀Rust 1ヶ月&lt;/li>
+&lt;li>🟦JAX/Flax 1ヶ月&lt;/li>
+&lt;/ul>
+&lt;h2 id="資格免許スキル表彰">資格/免許/スキル/表彰&lt;/h2>
 &lt;h3 id="it">IT&lt;/h3>
 &lt;ul>
 &lt;li>2022年10月: 情報処理安全確保支援士試験合格(未登録)&lt;/li>
+&lt;li>2023年4月: ネットワークスペシャリスト試験合格&lt;/li>
 &lt;li>2023年6月: 技育CAMP2023マンスリーハッカソンvol.4　企業賞受賞(メディアドゥ賞)
 &lt;ul>
 &lt;li>表彰ツイート(&lt;a href="https://twitter.com/geek_pjt/status/1665291006319955968"target="_blank" rel="noopener noreferrer">https://twitter.com/geek_pjt/status/1665291006319955968&lt;/a>
@@ -134,4 +143,22 @@
 )&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;li>技育CAMPアドバンスVol.3　ウイングアーク1st賞&lt;/li>
+&lt;/ul>
+&lt;h3 id="語学">語学&lt;/h3>
+&lt;ul>
+&lt;li>2016年7月: IELTS Overall スコア 6.5&lt;/li>
+&lt;li>2016年11月: 実用英語技能検定1級（英検1級）&lt;/li>
+&lt;li>2017年3月〜2017年12月: 1年弱オーストラリアでのAFS交換留学を経験。現地の高校に通い、オーストラリア人の高校生と同じ講義を履修。&lt;/li>
+&lt;li>2019年6月: 中国語検定3級&lt;/li>
+&lt;li>2022年5月: TOEIC Listening &amp;amp; Reading Testスコア950&lt;/li>
+&lt;/ul></description></item><item><title>Hackathon</title><link>https://wakakusayuzu0.github.io/blog/posts/hackathon/</link><pubDate>Tue, 06 Jun 2023 21:00:00 +0900</pubDate><guid>https://wakakusayuzu0.github.io/blog/posts/hackathon/</guid><description>&lt;p>ハッカソンで企業賞をいただきました&lt;/p>
+&lt;p>私はCAMPHOR-という学生IT団体に所属しているのですが、運営メンバーと技育CAMPハッカソンに出場し、企業賞をいただきました。&lt;/p>
+&lt;p>京都の古民家をIoTで便利にしよう！というコンセプトの作品で、(&lt;a href="https://twitter.com/geek_pjt/status/1665291006319955968"target="_blank" rel="noopener noreferrer">https://twitter.com/geek_pjt/status/1665291006319955968&lt;/a>
+, &lt;a href="https://twitter.com/geek_pjt/status/1665291008358207488"target="_blank" rel="noopener noreferrer">https://twitter.com/geek_pjt/status/1665291008358207488&lt;/a>
+)
+私は点灯/消灯の自動化とPrometheus(,Grafana)による可視化を担当していました。&lt;/p></description></item><item><title>SecHack365に合格しました</title><link>https://wakakusayuzu0.github.io/blog/posts/sechack365/</link><pubDate>Sun, 28 May 2023 02:30:30 +0900</pubDate><guid>https://wakakusayuzu0.github.io/blog/posts/sechack365/</guid><description>&lt;p>SecHack365に合格しました。&lt;/p>
+&lt;p>SecHack365(NICTが主催する1年間の長期ハッカソン)に合格しました！&lt;/p>
+&lt;p>SecHack365では、大規模言語モデルのセキュリティ、特に大規模言語モデルに存在するプロンプトインジェクションという脆弱性の防御手法を開発・実装しています。プロンプトインジェクション攻撃は、特殊なプロンプト(命令文)を入力することによって、大規模言語モデルの開発者が意図しない出力を誘導する脆弱性攻撃です。&lt;/p>
+&lt;p>大規模言語モデルはテキスト分析や翻訳、要約といったさまざまなタスクで革新的な性能を発揮しており、産学を問わず応用可能性が模索されています。
+大規模言語モデルをアプリケーションに応用するにあたって、プロンプトインジェクションから大規模言語モデルを防御する手法が求められていると思い、今後研究開発を行っていきます！&lt;/p></description></item></channel></rss>
