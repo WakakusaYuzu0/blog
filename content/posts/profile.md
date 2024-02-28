@@ -28,7 +28,7 @@ draft: False
 
 #### LeapMind株式会社(2022年8月〜10月, 2ヶ月)
   - 量子化されたニューラルネットワーク上での異常分類モデルの実装
-  - インターン記事(https://leapmind.io/blog/2022/10/12/summer-internship-2022-wakai-investigate-the-possibility-of-anomaly-classification-on-quantized-neural-networks/)
+  - インターン記事(https://leapmind.io/news/detail/summer-internship-2022-wakai-investigate-the-possibility-of-anomaly-classification-on-quantized-neural-networks/)
 
 #### フューチャー株式会社(2022年8月〜9月, 1ヶ月)
   - 光学文字認識をする機械学習モデルの精度改善
