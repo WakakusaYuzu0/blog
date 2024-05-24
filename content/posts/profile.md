@@ -66,7 +66,7 @@ draft: False
 - 京都大学大学院情報学研究科　鹿島研究室 
 - KaiRA(京都大学人工知能研究会)(https://kyoto-kaira.github.io/)
 - CAMPHOR(京都のIT系学生コミュニティ)(https://camph.net/#top)
-- SecHack365 2023年度トレーニー
+- SecHack365 2023年度トレーニー(プロンプトインジェクションの事前検知についての研究)
 
 ## 研究
 ### 査読付国際学会　　
