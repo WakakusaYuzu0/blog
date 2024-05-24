@@ -70,7 +70,7 @@ draft: False
 
 ## 研究
 ### 査読付国際学会　　
-- PAKDD2024(発表予定) "Recovering Population Dynamics from a Single Point Cloud Snapshot"
+- PAKDD2024 "Recovering Population Dynamics from a Single Point Cloud Snapshot"
 
 ### 国内学会　
 - JSAI2023
