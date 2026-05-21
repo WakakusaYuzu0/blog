@@ -1,4 +1,262 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ゆずぶろ</title><link>https://wakakusayuzu0.github.io/blog/</link><description>Recent content on ゆずぶろ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0900</lastBuildDate><atom:link href="https://wakakusayuzu0.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Profile</title><link>https://wakakusayuzu0.github.io/blog/posts/profile/</link><pubDate>Mon, 16 Dec 2024 00:00:00 +0900</pubDate><guid>https://wakakusayuzu0.github.io/blog/posts/profile/</guid><description>&lt;p>プロフィール&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ゆずぶろ</title><link>https://wakakusayuzu0.github.io/blog/</link><description>Recent content on ゆずぶろ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 20 May 2026 00:00:00 +0900</lastBuildDate><atom:link href="https://wakakusayuzu0.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Profile</title><link>https://wakakusayuzu0.github.io/blog/posts/profile_en/</link><pubDate>Wed, 20 May 2026 00:00:00 +0900</pubDate><guid>https://wakakusayuzu0.github.io/blog/posts/profile_en/</guid><description>&lt;p>Profile (CV)&lt;/p>
+&lt;h1 id="yuki-wakai">Yuki Wakai&lt;/h1>
+&lt;h2 id="education">Education&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Doctor of Informatics&lt;/strong>, Graduate School of Informatics, Kyoto University, Japan&lt;br>
+April 2025 – Present&lt;br>
+Supervisor: Professor Hisashi Kashima&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Master of Informatics&lt;/strong>, Graduate School of Informatics, Kyoto University, Japan&lt;br>
+April 2023 – March 2025&lt;br>
+Supervisor: Professor Hisashi Kashima&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Bachelor of Informatics&lt;/strong>, Faculty of Engineering, Kyoto University, Japan&lt;br>
+April 2019 – March 2023&lt;br>
+Awarded the SICE Outstanding Student Award&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="research">Research&lt;/h2>
+&lt;h3 id="research-interests">Research Interests&lt;/h3>
+&lt;ul>
+&lt;li>Security and privacy of large language models and large multimodal models&lt;/li>
+&lt;li>Privacy-preserving data mining of point cloud data&lt;/li>
+&lt;li>Machine learning for real-world data analysis and optimization&lt;/li>
+&lt;/ul>
+&lt;h3 id="refereed-publications">Refereed Publications&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Privacy-Preserving Image Annotation by Large Multimodal Models&lt;/strong>&lt;br>
+ICPR 2026, to be published&lt;br>
+Yuki Wakai, Kyohei Atarashi, Koh Takeuchi, Hisashi Kashima&lt;br>
+Proposed a method to employ large multimodal models for automated image annotation while addressing data privacy concerns.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Robust In-Context Defenses against Jailbreaking of LLMs via Role Specification&lt;/strong>&lt;br>
+ICASSP 2026&lt;br>
+Yuki Wakai, Kunihiro Ito, Hisashi Kashima&lt;br>
+Demonstrated that specifying roles in prompts improves the robustness of large language models without compromising response quality.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Understanding Privacy Risks of Large Language Models in Japanese Based on Training Data Extraction Attacks&lt;/strong>&lt;br>
+AsiaCCS 2025 Workshop&lt;br>
+Yuki Wakai, Toshiki Shibahara, Rina Okada, Takayuki Miura, Hiroki Kinoshita&lt;br>
+Investigated the robustness of Japanese-compatible large language models against training data extraction attacks.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Recovering Population Dynamics from a Single Point Cloud Snapshot&lt;/strong>&lt;br>
+PAKDD 2024, acceptance rate below 25%&lt;br>
+Yuki Wakai, Koh Takeuchi, Hisashi Kashima&lt;br>
+Proposed a method to estimate population dynamics from a single point cloud snapshot without time-series information or features other than coordinates.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="domestic-presentations">Domestic Presentations&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Recovering Population Dynamics from a Single Point Cloud Snapshot&lt;/strong>&lt;br>
+JSAI 2023&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Privacy-Preserving Data Annotation Automation by Large Multimodal Models&lt;/strong>&lt;br>
+JSAI 2024&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="projects">Projects&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Jailbreak Detection Models for LLMs&lt;/strong>&lt;br>
+SecHack365 2023&lt;br>
+Implemented machine learning models to detect prompts that attempt to circumvent the safety guardrails of large language models.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Image Model Distillation via Human-in-the-Loop&lt;/strong>&lt;br>
+Google Summer of Code 2025, OpenVINO organization&lt;br>
+Implemented a pipeline to train edge-deployable image models through collaborative annotation with humans and large foundation models.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>IoT System for Traditional Japanese Houses in Kyoto&lt;/strong>&lt;br>
+Developed an IoT-enabled smart lock system for the entrance of a traditional Japanese house in Kyoto. The project won corporate awards at hackathons.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="work-experience">Work Experience&lt;/h2>
+&lt;h3 id="long-term-internships">Long-Term Internships&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Research Intern, NEC Corporation&lt;/strong>&lt;br>
+October 2024 – November 2024&lt;br>
+Researched methods to improve the security and robustness of large language models against jailbreaking.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Research Intern, NTT Communication&lt;/strong>&lt;br>
+August 2024 – September 2024&lt;br>
+Evaluated privacy and security risks of large language models based on training data extraction attacks.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Engineering Intern, Recruit Holdings Co., Ltd.&lt;/strong>&lt;br>
+October 2023 – December 2023&lt;br>
+Worked as a data scientist and machine learning engineer. Improved recommendation models for a dating app and analyzed large-scale application data on BigQuery.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Engineering Intern, Fast Retailing Co., Ltd.&lt;/strong>&lt;br>
+October 2023 – December 2023&lt;br>
+Implemented optimization models for inventory planning.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Research Intern, Preferred Networks, Inc.&lt;/strong>&lt;br>
+August 2023 – September 2023&lt;br>
+Researched and developed weather estimation and prediction methods using 3D weather radar data.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Research Intern, LeapMind, Inc.&lt;/strong>&lt;br>
+August 2022 – October 2022&lt;br>
+Implemented anomaly classification models on quantized neural networks.&lt;br>
+Internship article: &lt;a href="https://leapmind.io/news/detail/summer-internship-2022-wakai-investigate-the-possibility-of-anomaly-classification-on-quantized-neural-networks/"target="_blank" rel="noopener noreferrer">https://leapmind.io/news/detail/summer-internship-2022-wakai-investigate-the-possibility-of-anomaly-classification-on-quantized-neural-networks/&lt;/a>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Engineering Intern, Future Corporation&lt;/strong>&lt;br>
+August 2022 – September 2022&lt;br>
+Improved the accuracy of optical character recognition models and developed a pipeline to automatically create real-world Japanese character datasets using OCR models.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="short-term-internships">Short-Term Internships&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Toyota Motor Corporation&lt;/strong>&lt;br>
+September 2023&lt;br>
+Analyzed vehicle data and explored potential use cases.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Knowledge Work, Inc.&lt;/strong>&lt;br>
+May 2023&lt;br>
+Developed a Go library to support testing of parallel processing.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>CyberAgent, Inc.&lt;/strong>&lt;br>
+September 2022&lt;br>
+Improved machine learning models and API servers for recommendation systems, and analyzed video viewing data.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Nikkei Inc.&lt;/strong>&lt;br>
+September 2022&lt;br>
+Developed a system to automatically generate thumbnail images from newspaper article titles using Stable Diffusion.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>CyberAgent, Inc.&lt;/strong>&lt;br>
+February 2022 – March 2022&lt;br>
+Developed game API servers.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="part-time-experience">Part-Time Experience&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>RUTILEA, Inc.&lt;/strong>&lt;br>
+April 2022 – Present&lt;br>
+Worked on a proof-of-concept project to estimate container filling rates from LiDAR point cloud data.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Datagrid, Inc.&lt;/strong>&lt;br>
+October 2022 – March 2023&lt;br>
+Worked on improving the efficiency of compound exploration in drug discovery using machine learning.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="affiliations">Affiliations&lt;/h2>
+&lt;ul>
+&lt;li>Kashima Laboratory, Graduate School of Informatics, Kyoto University&lt;/li>
+&lt;li>KaiRA, Kyoto University Artificial Intelligence Research Association&lt;br>
+&lt;a href="https://kyoto-kaira.github.io/"target="_blank" rel="noopener noreferrer">https://kyoto-kaira.github.io/&lt;/a>
+&lt;/li>
+&lt;li>CAMPHOR, IT student community in Kyoto&lt;br>
+&lt;a href="https://camph.net/#top"target="_blank" rel="noopener noreferrer">https://camph.net/#top&lt;/a>
+&lt;/li>
+&lt;li>SecHack365 2023 Trainee&lt;br>
+Researched pre-detection methods for prompt injection and jailbreak attempts.&lt;/li>
+&lt;/ul>
+&lt;h2 id="development-experience">Development Experience&lt;/h2>
+&lt;p>I have been programming since junior high school and have experience with Python, Go, C, C++, Java, OCaml, Verilog, and other languages.&lt;/p>
+&lt;p>During my master’s program, I worked on several machine learning and data science internships, including weather prediction from 3D radar data, recommendation model improvement for a dating app, large-scale data analysis with BigQuery, and inventory optimization.&lt;/p>
+&lt;p>During my undergraduate research, I joined Kashima Laboratory, where I worked on data analysis and applied machine learning. I also gained practical experience through internships and part-time roles involving anomaly detection on quantized neural networks, OCR model improvement, Japanese character dataset construction, and machine learning for compound exploration in drug discovery.&lt;/p>
+&lt;p>I have also worked on systems programming and backend development. As an undergraduate, I implemented a CPU with a five-stage pipeline and branch prediction on an FPGA using Verilog. I also implemented interpreters and type inference programs using OCaml, and developed backend API servers in Go during an internship.&lt;/p>
+&lt;p>In my second year of university, I developed a Python program for Kyoto University students that automatically collected assignment lists by scraping a course website and supported scheduled assignment submissions.&lt;/p>
+&lt;p>I have participated in competitive programming since my first year of university. On AtCoder, I reached a rating of 1382, corresponding to the cyan rank.&lt;/p>
+&lt;h2 id="technical-skills">Technical Skills&lt;/h2>
+&lt;h3 id="professional-experience">Professional Experience&lt;/h3>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Go&lt;/li>
+&lt;li>Keras / TensorFlow / PyTorch&lt;/li>
+&lt;li>SQL / BigQuery&lt;/li>
+&lt;li>Docker&lt;/li>
+&lt;li>Git&lt;/li>
+&lt;/ul>
+&lt;h3 id="academic-or-personal-experience">Academic or Personal Experience&lt;/h3>
+&lt;ul>
+&lt;li>C / C++&lt;/li>
+&lt;li>Java&lt;/li>
+&lt;li>OCaml&lt;/li>
+&lt;li>Verilog&lt;/li>
+&lt;/ul>
+&lt;h3 id="currently-learning">Currently Learning&lt;/h3>
+&lt;ul>
+&lt;li>Rust&lt;/li>
+&lt;li>JAX / Flax&lt;/li>
+&lt;/ul>
+&lt;h2 id="awards-certifications-and-languages">Awards, Certifications, and Languages&lt;/h2>
+&lt;h3 id="it-certifications-and-awards">IT Certifications and Awards&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Registered Information Security Specialist Examination&lt;/strong>, passed, not registered&lt;br>
+October 2022&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Network Specialist Examination&lt;/strong>, passed&lt;br>
+April 2023&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>SICE Outstanding Student Award&lt;/strong>&lt;br>
+March 2023&lt;br>
+Awarded for outstanding academic performance.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>MediaDo Award, Giiku Camp 2023 Monthly Hackathon Vol. 4&lt;/strong>&lt;br>
+May 2023&lt;br>
+Awarded for an IoT monitoring system for traditional Japanese houses in Kyoto.&lt;br>
+Award tweets: &lt;a href="https://twitter.com/geek_pjt/status/1665291006319955968"target="_blank" rel="noopener noreferrer">https://twitter.com/geek_pjt/status/1665291006319955968&lt;/a>
+, &lt;a href="https://twitter.com/geek_pjt/status/1665291008358207488"target="_blank" rel="noopener noreferrer">https://twitter.com/geek_pjt/status/1665291008358207488&lt;/a>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>WingArc1st Award, Giiku Camp Advanced Vol. 3&lt;/strong>&lt;br>
+September 2023&lt;br>
+Awarded for an IoT monitoring system for traditional Japanese houses in Kyoto.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="language-skills">Language Skills&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>IELTS Overall 6.5&lt;/strong>&lt;br>
+July 2016&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>EIKEN Grade 1&lt;/strong>&lt;br>
+November 2016&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>AFS Exchange Program in Australia&lt;/strong>&lt;br>
+March 2017 – December 2017&lt;br>
+Studied at a local high school in Australia and took classes alongside Australian students.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Chinese Proficiency Test, Grade 3&lt;/strong>&lt;br>
+June 2019&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>TOEIC Listening &amp;amp; Reading Test, 950&lt;/strong>&lt;br>
+May 2022&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Profile</title><link>https://wakakusayuzu0.github.io/blog/posts/profile/</link><pubDate>Mon, 16 Dec 2024 00:00:00 +0900</pubDate><guid>https://wakakusayuzu0.github.io/blog/posts/profile/</guid><description>&lt;p>プロフィール&lt;/p>
 &lt;h2 id="学歴">学歴&lt;/h2>
 &lt;p>京都大学工学部情報学科　　　2023年3月卒業 (SICE優秀学生賞受賞)&lt;br>
 京都大学大学院情報学研究科　2023年4月入学&lt;br>
